@@ -1,0 +1,14 @@
+{
+  "name": "przemekd-lustre",
+  "version": "0.1.0",
+  "author": "Przemysław Dubaniewicz",
+  "summary": "Configure Lustre file system",
+  "license": "Apache 2.0",
+  "source": "https://github.com/przemekd/puppet-lustre",
+  "project_page": "https://github.com/przemekd/puppet-lustre",
+  "issues_url": "https://github.com/przemekd/puppet-lustre/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
